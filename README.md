@@ -34,10 +34,15 @@ I have also written and added many effects from scratch as well. At this point, 
 
 Credits:
 Arma FXP: https://steamcommunity.com/sharedfiles/filedetails/?id=1105511475
+
 Blastcore Edited (Standalone): https://steamcommunity.com/sharedfiles/filedetails/?id=767380317
+
 Blastcore Visuals r.1.2: https://steamcommunity.com/sharedfiles/filedetails/?id=2187170862
+
 HopeCore: https://steamcommunity.com/sharedfiles/filedetails/?id=286050506
+
 Goko Ballistic Impact: https://steamcommunity.com/sharedfiles/filedetails/?id=1273833677
+
 Refraction Blast Wave Effect: https://www.armaholic.com/page.php?id=34795
 
 ThomasAngel: CBA settings implementation, all scripting work, many bug fixes and guiding me through some modding features. He's awesome!
